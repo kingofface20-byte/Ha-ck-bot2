@@ -1,0 +1,12 @@
+{
+  "name": "telegram-link-bot",
+  "version": "1.0.0",
+  "description": "A simple telegram bot to replace usernames with links",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
